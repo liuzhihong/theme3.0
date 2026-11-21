@@ -1,0 +1,337 @@
+{
+  "sections": {
+    "main-product-info": {
+      "type": "main-product",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "flex-direction": "column",
+            "row-gap": "20px"
+          },
+          "column-gap": "60px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "row-gap": "60px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "20px",
+            "padding-block-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "0px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "info": {
+          "type": "$product-info",
+          "settings": {},
+          "blocks": {
+            "17496991465927fe5a05": {
+              "type": "product/detail-inventory",
+              "settings": {
+                "inventory_threshold": 10,
+                "show_inventory_quantity": true
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "17496992057759e5bbf3": {
+              "type": "custom-html",
+              "settings": {
+                "color_scheme": "scheme-1",
+                "html": "\u003cdiv style=\"text-align:center;\"\u003e\u003ch2\u003eUse HTML to format your text so it can be easily read.\u003c/h2\u003eThis text can be used to share information about your brand with customers.\u003c/div\u003e",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                }
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1749699209232524a714": {
+              "type": "rich-text",
+              "settings": {
+                "content": "\u003cstrong\u003e富文本\u003c/strong\u003e\u003cbr\u003e\u003cem\u003eA sentence or two introducing your brand, what you sell, and what makes your brand compelling to customers.\u003c/em\u003e",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-bottom": "0px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "padding-top": "0px"
+                },
+                "text_align": "center"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1749699215006b40b9c8": {
+              "type": "product/detail-popup",
+              "settings": {
+                "page": "7017202343750935895",
+                "text": "弹窗标题"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1749699221221fc57f9b": {
+              "type": "product/detail-variant-sku",
+              "settings": {},
+              "disabled": false,
+              "blocks": {},
+              "block_order": []
+            },
+            "additional": {
+              "type": "product/detail-additional",
+              "settings": {
+                "custom_page": "7017202343750935895",
+                "description": "\u003cspan style=\"color: #843fa1;\"\u003e自定义内容\u003c/span\u003e",
+                "enabled_fold": false,
+                "icon": "pay",
+                "title": "自定义内容"
+              },
+              "blocks": {}
+            },
+            "buy-buttons": {
+              "type": "product/detail-buy-buttons",
+              "settings": {},
+              "blocks": {}
+            },
+            "description": {
+              "type": "product/detail-description",
+              "settings": {},
+              "blocks": {}
+            },
+            "price": {
+              "type": "product/detail-price",
+              "settings": {},
+              "blocks": {}
+            },
+            "quantity-selector": {
+              "type": "product/detail-quantity-selector",
+              "settings": {},
+              "blocks": {}
+            },
+            "sell-info": {
+              "type": "product/detail-sell-info",
+              "settings": {},
+              "blocks": {
+                "sell_info_1": {
+                  "type": "product/detail-sell-info-row",
+                  "settings": {
+                    "info_icon": "globe",
+                    "info_text": "Free worldwide shipping"
+                  },
+                  "blocks": {}
+                },
+                "sell_info_2": {
+                  "type": "product/detail-sell-info-row",
+                  "settings": {
+                    "info_icon": "checkmark",
+                    "info_text": "Free returns"
+                  },
+                  "blocks": {}
+                },
+                "sell_info_3": {
+                  "type": "product/detail-sell-info-row",
+                  "settings": {
+                    "info_icon": "leaf",
+                    "info_text": "Carbon neutral"
+                  },
+                  "blocks": {}
+                },
+                "sell_info_4": {
+                  "type": "product/detail-sell-info-row",
+                  "settings": {
+                    "info_icon": "lock",
+                    "info_text": "Secure payments"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "sell_info_1",
+                "sell_info_2",
+                "sell_info_3",
+                "sell_info_4"
+              ]
+            },
+            "share": {
+              "type": "product/detail-share",
+              "settings": {},
+              "blocks": {}
+            },
+            "title": {
+              "type": "product/detail-heading",
+              "settings": {},
+              "blocks": {}
+            },
+            "variant-picker": {
+              "type": "product/detail-variant-picker",
+              "settings": {},
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "title",
+            "price",
+            "1749699221221fc57f9b",
+            "17496991465927fe5a05",
+            "sell-info",
+            "variant-picker",
+            "quantity-selector",
+            "buy-buttons",
+            "description",
+            "share",
+            "additional",
+            "17496992057759e5bbf3",
+            "1749699209232524a714",
+            "1749699215006b40b9c8"
+          ]
+        },
+        "media": {
+          "type": "$product-media",
+          "settings": {
+            "mobile_layout": "two-columns"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "media",
+        "info"
+      ]
+    },
+    "recommended-product": {
+      "type": "recommended-product",
+      "settings": {
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "column-gap": "40px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "row-gap": "40px"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "20px",
+            "padding-top": "20px"
+          },
+          "padding-bottom": "60px",
+          "padding-top": "60px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "recommended-product__heading": {
+          "type": "heading",
+          "settings": {
+            "text": "You may also like",
+            "text_align": "center"
+          },
+          "blocks": {}
+        },
+        "recommended-product__product-list": {
+          "type": "product-list/list",
+          "settings": {
+            "desktop_columns": 3,
+            "desktop_enable_slider": true,
+            "mobile_columns": 2,
+            "mobile_enable_slider": true,
+            "page_size": 3
+          },
+          "blocks": {
+            "recommended-product__product-list__card": {
+              "type": "product-list/card",
+              "settings": {},
+              "blocks": {
+                "recommended-product__product-list__card__image": {
+                  "type": "product-list/image",
+                  "settings": {},
+                  "blocks": {
+                    "recommended-product__product-list__card__image__layer-1": {
+                      "type": "product-list/layer",
+                      "settings": {
+                        "layout": {
+                          "align-items": "flex-end"
+                        }
+                      },
+                      "blocks": {
+                        "recommended-product__product-list__card__image__layer__discount-tag": {
+                          "type": "product-list/discount_tag",
+                          "settings": {},
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "recommended-product__product-list__card__image__layer__discount-tag"
+                      ]
+                    },
+                    "recommended-product__product-list__card__image__layer-2": {
+                      "type": "product-list/layer",
+                      "settings": {
+                        "layout": {
+                          "justify-content": "flex-end"
+                        }
+                      },
+                      "blocks": {
+                        "recommended-product__product-list__card__image__layer__quick-add-to-cart": {
+                          "type": "product-list/quick_add",
+                          "settings": {},
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "recommended-product__product-list__card__image__layer__quick-add-to-cart"
+                      ]
+                    }
+                  },
+                  "block_order": [
+                    "recommended-product__product-list__card__image__layer-1",
+                    "recommended-product__product-list__card__image__layer-2"
+                  ]
+                },
+                "recommended-product__product-list__card__price": {
+                  "type": "product-list/price",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "recommended-product__product-list__card__title": {
+                  "type": "product-list/title",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "recommended-product__product-list__card__image",
+                "recommended-product__product-list__card__title",
+                "recommended-product__product-list__card__price"
+              ]
+            }
+          },
+          "block_order": [
+            "recommended-product__product-list__card"
+          ]
+        }
+      },
+      "block_order": [
+        "recommended-product__heading",
+        "recommended-product__product-list"
+      ],
+      "custom_css": []
+    }
+  },
+  "order": [
+    "main-product-info",
+    "recommended-product"
+  ]
+}

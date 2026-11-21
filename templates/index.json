@@ -1,0 +1,1734 @@
+{
+ "order": [
+  "slideshow",
+  "rich-text",
+  "collection-list",
+  "image-banner",
+  "featured-collection",
+  "blog",
+  "video",
+  "image-with-text",
+  "text-columns-with-image",
+  "sign-up-and-save",
+  "1748592684153549169a",
+  "174859280246779223b8",
+  "1748592835752f459ce8",
+  "1748592850524197d8c0",
+  "17485929196370d9c172",
+  "17485930245561d98406"
+ ],
+ "sections": {
+  "1748592684153549169a": {
+   "block_order": [
+    "17485926841546fb9c95",
+    "17485926841547337200"
+   ],
+   "blocks": {
+    "17485926841546fb9c95": {
+     "blocks": {},
+     "settings": {
+      "text": "Frequent Asked Questions常见问题",
+      "text_align": "left"
+     },
+     "type": "$heading"
+    },
+    "17485926841547337200": {
+     "block_order": [
+      "1748592684154281ad5a",
+      "1748592742926c2bfd14"
+     ],
+     "blocks": {
+      "1748592684154281ad5a": {
+       "block_order": [
+        "17485926841542484fb3",
+        "17485927224043599f41"
+       ],
+       "blocks": {
+        "17485926841542484fb3": {
+         "blocks": {},
+         "settings": {
+          "icon": "banana",
+          "title": "Collapsible rowCollapsible row常见问题1"
+         },
+         "type": "$collapsible-panel"
+        },
+        "17485927224043599f41": {
+         "block_order": [],
+         "blocks": {},
+         "settings": {
+          "content": "A sentence or two introducing your brand, what you sell, and what makes your brand compelling to customers.常见问题2",
+          "icon": "carrot",
+          "title": "Collapsible row常见问题2"
+         },
+         "type": "$collapsible-panel"
+        }
+       },
+       "settings": {},
+       "type": "$collapsible-group"
+      },
+      "1748592742926c2bfd14": {
+       "block_order": [],
+       "blocks": {},
+       "settings": {
+        "image": "shopline://shop_images/c2fab052d0cd47f6a0a5f2a63883eb7a_7017201865902279698.jpg",
+        "image_aspect_ratio": "3/2"
+       },
+       "type": "$image"
+      }
+     },
+     "settings": {},
+     "type": "$group"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-1",
+    "expand_first_label": true,
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "20px",
+      "row-gap": "20px"
+     },
+     "align-items": "center",
+     "column-gap": "40px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "40px"
+    },
+    "size": {
+     "height": "auto",
+     "width": "100%"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-block-end": "24px",
+      "padding-block-start": "24px",
+      "padding-inline-end": "20px",
+      "padding-inline-start": "20px"
+     },
+     "padding-block-end": "60px",
+     "padding-block-start": "60px",
+     "padding-inline-end": "30px",
+     "padding-inline-start": "30px"
+    }
+   },
+   "type": "faq"
+  },
+  "174859280246779223b8": {
+   "blocks": {},
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-5",
+    "size": {
+     "@media (--mobile)": {
+      "height": "auto",
+      "width": "100%"
+     },
+     "height": "auto",
+     "width": "1000px"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-bottom": "40px",
+      "padding-top": "40px"
+     },
+     "padding-bottom": "60px",
+     "padding-top": "60px"
+    },
+    "title": "Contact us联系表单",
+    "title_size": "title2"
+   },
+   "type": "contact-form"
+  },
+  "1748592835752f459ce8": {
+   "blocks": {},
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-4",
+    "html": "\u003cdiv style=\"text-align:center;\"\u003e\u003ch2\u003e自定义HTML Use HTML to format your text so it can be easily read.\u003c/h2\u003eThis text can be used to share information about your brand with customers.\u003c/div\u003e",
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "20px",
+      "row-gap": "20px"
+     },
+     "align-items": "center",
+     "column-gap": "30px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "30px"
+    },
+    "size": {
+     "height": "auto",
+     "width": "100%"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-bottom": "40px",
+      "padding-top": "40px"
+     },
+     "padding-bottom": "80px",
+     "padding-top": "80px"
+    }
+   },
+   "type": "custom-html"
+  },
+  "1748592850524197d8c0": {
+   "blocks": {},
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-5",
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "20px",
+      "row-gap": "20px"
+     },
+     "align-items": "center",
+     "column-gap": "30px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "30px"
+    },
+    "page": "7017202343750935895",
+    "size": {
+     "height": "auto",
+     "width": "100%"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-bottom": "40px",
+      "padding-left": "0",
+      "padding-right": "0",
+      "padding-top": "40px"
+     },
+     "padding-bottom": "80px",
+     "padding-left": "210px",
+     "padding-right": "210px",
+     "padding-top": "80px"
+    },
+    "title_size": "title1"
+   },
+   "type": "custom-page"
+  },
+  "17485929196370d9c172": {
+   "block_order": [
+    "1748592919639d716a5a",
+    "1748592919639638a59f"
+   ],
+   "blocks": {
+    "1748592919639638a59f": {
+     "block_order": [
+      "1748592919639ee75f81",
+      "1748592919639bad812e",
+      "1748592919639a6b9eaf",
+      "174859291963945feb3d",
+      "17485929196395157d66",
+      "17485929196392dddbb0",
+      "17485929416526ed3e80",
+      "1748592945163be6d0d5"
+     ],
+     "blocks": {
+      "17485929196392dddbb0": {
+       "blocks": {},
+       "settings": {},
+       "type": "product/detail-share"
+      },
+      "174859291963945feb3d": {
+       "blocks": {},
+       "settings": {},
+       "type": "product/detail-quantity-selector"
+      },
+      "17485929196395157d66": {
+       "blocks": {},
+       "settings": {},
+       "type": "product/detail-buy-buttons"
+      },
+      "1748592919639a6b9eaf": {
+       "blocks": {},
+       "settings": {},
+       "type": "product/detail-variant-picker"
+      },
+      "1748592919639bad812e": {
+       "blocks": {},
+       "settings": {},
+       "type": "product/detail-price"
+      },
+      "1748592919639ee75f81": {
+       "blocks": {},
+       "settings": {
+        "heading": "{{section.settings.product.vendor}}",
+        "text_align": "center",
+        "text_size": "title2"
+       },
+       "type": "product/detail-heading"
+      },
+      "17485929416526ed3e80": {
+       "block_order": [],
+       "blocks": {},
+       "settings": {
+        "content": "{{section.settings.product.title}}A sentence or two introducing your brand, what you sell, and what makes your brand compelling to customers.单个商品block富文本",
+        "size": {
+         "height": "auto",
+         "width": "100%"
+        },
+        "spacing": {
+         "padding-bottom": "0px",
+         "padding-left": "0px",
+         "padding-right": "0px",
+         "padding-top": "0px"
+        },
+        "text_align": "left"
+       },
+       "type": "rich-text"
+      },
+      "1748592945163be6d0d5": {
+       "block_order": [],
+       "blocks": {},
+       "settings": {
+        "color_scheme": "scheme-1",
+        "html": "\u003cdiv style=\"text-align:center;\"\u003e\u003ch2\u003eUse HTML to format your text so it can be easily read.\u003c/h2\u003eThis text can be used to share information about your brand with customers.\u003c/div\u003e",
+        "size": {
+         "height": "auto",
+         "width": "100%"
+        }
+       },
+       "type": "custom-html"
+      }
+     },
+     "settings": {
+      "layout": {
+       "column-gap": "20px",
+       "flex-direction": "column",
+       "flex-wrap": "nowrap",
+       "row-gap": "20px"
+      }
+     },
+     "type": "$product-info"
+    },
+    "1748592919639d716a5a": {
+     "blocks": {},
+     "settings": {
+      "video_loop": false
+     },
+     "type": "$product-media"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-1",
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "20px",
+      "flex-direction": "column",
+      "row-gap": "20px"
+     },
+     "column-gap": "60px",
+     "flex-direction": "row",
+     "flex-wrap": "nowrap",
+     "row-gap": "60px"
+    },
+    "product": "16070172018665733528304030",
+    "spacing": {
+     "padding-block-end": "24px",
+     "padding-block-start": "24px",
+     "padding-inline-end": "0px",
+     "padding-inline-start": "0px"
+    }
+   },
+   "type": "featured-product"
+  },
+  "17485930245561d98406": {
+   "block_order": [
+    "174859303052925a313c",
+    "1748593032620d89216f"
+   ],
+   "blocks": {
+    "174859303052925a313c": {
+     "block_order": [
+      "1748593036911e25ef8f"
+     ],
+     "blocks": {
+      "1748593036911e25ef8f": {
+       "block_order": [],
+       "blocks": {},
+       "settings": {
+        "text": "1/22列等分布局",
+        "text_align": "center",
+        "text_size": "title4"
+       },
+       "type": "heading"
+      }
+     },
+     "settings": {
+      "layout": {
+       "align-items": "center",
+       "column-gap": "32px",
+       "flex-direction": "column",
+       "flex-wrap": "nowrap",
+       "justify-content": "center",
+       "row-gap": "32px"
+      },
+      "size": {
+       "height": "auto",
+       "width": "100%"
+      },
+      "spacing": {}
+     },
+     "type": "group"
+    },
+    "1748593032620d89216f": {
+     "block_order": [
+      "1748593065917a65810e",
+      "17485930696964a72614",
+      "1748593072974d97c284",
+      "174859307798376abb90",
+      "17485930825793b0b3a2",
+      "1748593086728cdc5357"
+     ],
+     "blocks": {
+      "1748593065917a65810e": {
+       "block_order": [],
+       "blocks": {},
+       "settings": {
+        "text": "1/2 Title",
+        "text_align": "center",
+        "text_size": "title3"
+       },
+       "type": "heading"
+      },
+      "17485930696964a72614": {
+       "block_order": [],
+       "blocks": {},
+       "settings": {
+        "subtitle": "Subtitle 2列等分布局 block2",
+        "text_align": "right"
+       },
+       "type": "subheading"
+      },
+      "1748593072974d97c284": {
+       "blocks": {},
+       "settings": {
+        "content": "A short description.2列等分布局 block2",
+        "size": {
+         "height": "auto",
+         "width": "100%"
+        },
+        "spacing": {
+         "padding-bottom": "0",
+         "padding-left": "0",
+         "padding-right": "0",
+         "padding-top": "0"
+        },
+        "text_align": "left"
+       },
+       "type": "description"
+      },
+      "174859307798376abb90": {
+       "block_order": [],
+       "blocks": {},
+       "settings": {
+        "content": "\u003cstrong\u003eA sentence\u003c/strong\u003e or two introducing your brand, what you sell, and what makes your brand compelling to customers.2列等分布局 block2",
+        "size": {
+         "height": "auto",
+         "width": "100%"
+        },
+        "spacing": {
+         "padding-bottom": "0px",
+         "padding-left": "0px",
+         "padding-right": "0px",
+         "padding-top": "0px"
+        },
+        "text_align": "left"
+       },
+       "type": "rich-text"
+      },
+      "17485930825793b0b3a2": {
+       "block_order": [],
+       "blocks": {},
+       "settings": {
+        "link": "",
+        "text": "Button",
+        "use_secondary_style": false
+       },
+       "type": "button"
+      },
+      "1748593086728cdc5357": {
+       "block_order": [
+        "17485930867298c733ec",
+        "17485930867293798d59"
+       ],
+       "blocks": {
+        "17485930867293798d59": {
+         "blocks": {},
+         "settings": {
+          "link": "",
+          "text": "Shop all",
+          "use_secondary_style": false
+         },
+         "type": "button"
+        },
+        "17485930867298c733ec": {
+         "blocks": {},
+         "settings": {
+          "link": "shopline://collections",
+          "text": "布局block-2",
+          "use_secondary_style": true
+         },
+         "type": "button"
+        }
+       },
+       "settings": {
+        "layout": {
+         "align-items": "center",
+         "column-gap": "14px",
+         "flex-direction": "row",
+         "flex-wrap": "nowrap",
+         "justify-content": "center",
+         "row-gap": "14px"
+        },
+        "size": {
+         "height": "auto",
+         "width": "100%"
+        },
+        "spacing": {
+         "padding-bottom": "0px",
+         "padding-left": "0px",
+         "padding-right": "0px",
+         "padding-top": "8px"
+        }
+       },
+       "type": "button-group"
+      }
+     },
+     "settings": {
+      "layout": {
+       "@media (--mobile)": {
+        "flex-direction": "column"
+       },
+       "align-items": "center",
+       "column-gap": "32px",
+       "flex-direction": "row",
+       "flex-wrap": "nowrap",
+       "justify-content": "center",
+       "row-gap": "32px"
+      },
+      "size": {
+       "height": "auto",
+       "width": "100%"
+      },
+      "spacing": {}
+     },
+     "type": "group"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-5",
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "20px",
+      "row-gap": "20px"
+     },
+     "align-items": "center",
+     "column-gap": "32px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "32px"
+    },
+    "size": {
+     "height": "auto",
+     "width": "100%"
+    },
+    "spacing": {}
+   },
+   "type": "custom-section"
+  },
+  "blog": {
+   "block_order": [
+    "blog__title",
+    "blog__articles"
+   ],
+   "blocks": {
+    "blog__articles": {
+     "block_order": [
+      "blog__articles__article_card"
+     ],
+     "blocks": {
+      "blog__articles__article_card": {
+       "block_order": [
+        "blog__articles__article_card__cover",
+        "blog__articles__article_card__info"
+       ],
+       "blocks": {
+        "blog__articles__article_card__cover": {
+         "blocks": {},
+         "settings": {
+          "border_radius": 16
+         },
+         "type": "article/cover"
+        },
+        "blog__articles__article_card__info": {
+         "block_order": [
+          "blog__articles__article_card__title",
+          "blog__articles__article_card__date_author",
+          "blog__articles__article_card__excerpt"
+         ],
+         "blocks": {
+          "blog__articles__article_card__date_author": {
+           "blocks": {},
+           "settings": {},
+           "type": "article/date_author"
+          },
+          "blog__articles__article_card__excerpt": {
+           "blocks": {},
+           "settings": {},
+           "type": "article/excerpt"
+          },
+          "blog__articles__article_card__title": {
+           "blocks": {},
+           "settings": {},
+           "type": "article/title"
+          }
+         },
+         "settings": {},
+         "type": "article/info"
+        }
+       },
+       "settings": {},
+       "type": "article/card"
+      }
+     },
+     "settings": {
+      "page_size": 4
+     },
+     "type": "$articles"
+    },
+    "blog__title": {
+     "blocks": {},
+     "settings": {
+      "link_text": "View 博客",
+      "text": "Blogs博客",
+      "text_size": "title4"
+     },
+     "type": "heading-with-link/heading-with-link"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "blog": "68394dea0d95c6349539068a",
+    "color_scheme": "scheme-5",
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "24px",
+      "row-gap": "24px"
+     },
+     "align-items": "center",
+     "column-gap": "60px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "60px"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-bottom": "24px",
+      "padding-top": "24px"
+     },
+     "padding-bottom": "60px",
+     "padding-top": "60px"
+    }
+   },
+   "type": "blog"
+  },
+  "collection-list": {
+   "block_order": [
+    "collection-list__heading-with-link",
+    "collection-list__list"
+   ],
+   "blocks": {
+    "collection-list__heading-with-link": {
+     "blocks": {},
+     "settings": {
+      "link_text": "View more商品分类",
+      "text": "Shop by 商品分类",
+      "text_size": "title3"
+     },
+     "type": "heading-with-link/heading-with-link"
+    },
+    "collection-list__list": {
+     "block_order": [
+      "collection-list__list__card-1",
+      "collection-list__list__card-2",
+      "collection-list__list__card-3",
+      "collection-list__list__card-4"
+     ],
+     "blocks": {
+      "collection-list__list__card-1": {
+       "block_order": [
+        "collection-list__list__card-1__image",
+        "collection-list__list__card-1__title"
+       ],
+       "blocks": {
+        "collection-list__list__card-1__image": {
+         "blocks": {},
+         "settings": {
+          "aspect_ratio": "unset",
+          "fit_type": "contain",
+          "shape": "circle"
+         },
+         "type": "collection/image"
+        },
+        "collection-list__list__card-1__title": {
+         "blocks": {},
+         "settings": {},
+         "type": "collection/title"
+        }
+       },
+       "settings": {
+        "collection": "12270172015936080861624030",
+        "color_scheme": "scheme-5"
+       },
+       "type": "collection/card"
+      },
+      "collection-list__list__card-2": {
+       "block_order": [
+        "collection-list__list__card-2__image",
+        "collection-list__list__card-2__title"
+       ],
+       "blocks": {
+        "collection-list__list__card-2__image": {
+         "blocks": {},
+         "settings": {
+          "aspect_ratio": "4/3"
+         },
+         "type": "collection/image"
+        },
+        "collection-list__list__card-2__title": {
+         "blocks": {},
+         "settings": {},
+         "type": "collection/title"
+        }
+       },
+       "settings": {
+        "collection": "12270172015930879544804030",
+        "color_scheme": "scheme-3"
+       },
+       "type": "collection/card"
+      },
+      "collection-list__list__card-3": {
+       "block_order": [
+        "collection-list__list__card-3__image",
+        "collection-list__list__card-3__title"
+       ],
+       "blocks": {
+        "collection-list__list__card-3__image": {
+         "blocks": {},
+         "settings": {
+          "aspect_ratio": "4/3",
+          "shape": "circle"
+         },
+         "type": "collection/image"
+        },
+        "collection-list__list__card-3__title": {
+         "blocks": {},
+         "settings": {
+          "size": {
+           "height": "50%",
+           "width": "50%"
+          }
+         },
+         "type": "collection/title"
+        }
+       },
+       "settings": {
+        "collection": "12270172015931215468844030"
+       },
+       "type": "collection/card"
+      },
+      "collection-list__list__card-4": {
+       "block_order": [
+        "collection-list__list__card-4__image",
+        "collection-list__list__card-4__title"
+       ],
+       "blocks": {
+        "collection-list__list__card-4__image": {
+         "blocks": {},
+         "settings": {},
+         "type": "collection/image"
+        },
+        "collection-list__list__card-4__title": {
+         "blocks": {},
+         "settings": {},
+         "type": "collection/title"
+        }
+       },
+       "settings": {
+        "collection": "12270172015927356329334030",
+        "color_scheme": "scheme-4"
+       },
+       "type": "collection/card"
+      }
+     },
+     "settings": {
+      "desktop_columns": 3,
+      "desktop_enable_slider": false,
+      "mobile_columns": 2,
+      "mobile_enable_slider": true
+     },
+     "type": "$list"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-1",
+    "layout": {
+     "@media (--mobile)": {
+      "align-items": "flex-start",
+      "column-gap": "20px",
+      "row-gap": "20px"
+     },
+     "align-items": "center",
+     "column-gap": "40px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "40px"
+    },
+    "size": {},
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-bottom": "24px",
+      "padding-top": "24px"
+     },
+     "padding-bottom": "60px",
+     "padding-top": "60px"
+    }
+   },
+   "type": "collection-list"
+  },
+  "featured-collection": {
+   "block_order": [
+    "featured-collection__heading-with-link",
+    "featured-collection__product-list"
+   ],
+   "blocks": {
+    "featured-collection__heading-with-link": {
+     "blocks": {},
+     "settings": {
+      "link_text": "View 精选商品",
+      "text": "Featured 精选商品",
+      "text_size": "title4"
+     },
+     "type": "heading-with-link/heading-with-link"
+    },
+    "featured-collection__product-list": {
+     "block_order": [
+      "featured-collection__product-list__card"
+     ],
+     "blocks": {
+      "featured-collection__product-list__card": {
+       "block_order": [
+        "featured-collection__product-list__card__image",
+        "featured-collection__product-list__card__price",
+        "featured-collection__product-list__card__title"
+       ],
+       "blocks": {
+        "featured-collection__product-list__card__image": {
+         "block_order": [
+          "featured-collection__product-list__card__image__layer-1",
+          "featured-collection__product-list__card__image__layer-2"
+         ],
+         "blocks": {
+          "featured-collection__product-list__card__image__layer-1": {
+           "block_order": [
+            "featured-collection__product-list__card__image__layer__quick-add-to-cart"
+           ],
+           "blocks": {
+            "featured-collection__product-list__card__image__layer__quick-add-to-cart": {
+             "blocks": {},
+             "settings": {},
+             "type": "product-list/quick_add"
+            }
+           },
+           "settings": {
+            "layout": {
+             "justify-content": "flex-end"
+            }
+           },
+           "type": "product-list/layer"
+          },
+          "featured-collection__product-list__card__image__layer-2": {
+           "block_order": [
+            "featured-collection__product-list__card__image__layer__discount-tag"
+           ],
+           "blocks": {
+            "featured-collection__product-list__card__image__layer__discount-tag": {
+             "blocks": {},
+             "settings": {},
+             "type": "product-list/discount_tag"
+            }
+           },
+           "settings": {},
+           "type": "product-list/layer"
+          }
+         },
+         "settings": {},
+         "type": "product-list/image"
+        },
+        "featured-collection__product-list__card__price": {
+         "blocks": {},
+         "settings": {},
+         "type": "product-list/price"
+        },
+        "featured-collection__product-list__card__title": {
+         "blocks": {},
+         "settings": {},
+         "type": "product-list/title"
+        }
+       },
+       "settings": {},
+       "type": "product-list/card"
+      }
+     },
+     "settings": {
+      "desktop_columns": 4,
+      "desktop_enable_slider": false,
+      "page_size": 7
+     },
+     "type": "product-list/list"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "collection": "12270172015936080861624030",
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "20px",
+      "row-gap": "20px"
+     },
+     "column-gap": "40px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "row-gap": "40px"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-bottom": "24px",
+      "padding-top": "24px"
+     },
+     "padding-bottom": "60px",
+     "padding-top": "60px"
+    }
+   },
+   "type": "featured-collection"
+  },
+  "image-banner": {
+   "block_order": [
+    "container"
+   ],
+   "blocks": {
+    "container": {
+     "block_order": [
+      "image-banner__subheading",
+      "image-banner__heading",
+      "image-banner__description",
+      "image-banner__button"
+     ],
+     "blocks": {
+      "image-banner__button": {
+       "blocks": {},
+       "settings": {
+        "button_text_1": "Shop this图片横幅",
+        "button_text_2": "Shop 图片横幅",
+        "button_url_1": "shopline://products/16070172018665733528304030",
+        "button_url_2": "shopline://cart"
+       },
+       "type": "$button"
+      },
+      "image-banner__description": {
+       "blocks": {},
+       "settings": {
+        "text": "And optional subtext图片横幅",
+        "text_align": "left"
+       },
+       "type": "$description"
+      },
+      "image-banner__heading": {
+       "blocks": {},
+       "settings": {
+        "heading": "Two Line Title Slide图片横幅",
+        "text_align": "right",
+        "text_size": "title3"
+       },
+       "type": "$heading"
+      },
+      "image-banner__subheading": {
+       "blocks": {},
+       "settings": {
+        "subheading": "Subtitle图片横幅",
+        "text_align": "left"
+       },
+       "type": "$subheading"
+      }
+     },
+     "settings": {
+      "show_background_color": true
+     },
+     "type": "$container"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "first_image": "shopline://shop_images/d78ec805ad1c4810beb2824b0eb5673a_7017201865902279694.jpg",
+    "image_height": "medium",
+    "layout": {
+     "@media (--mobile)": {
+      "align-items": "center",
+      "column-gap": "0px",
+      "flex-direction": "row",
+      "flex-wrap": "nowrap",
+      "justify-content": "center",
+      "row-gap": "0px"
+     },
+     "align-items": "center",
+     "column-gap": "0px",
+     "flex-direction": "row",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "0px"
+    },
+    "match_height_to_first_image": false,
+    "overlay_opacity": 30,
+    "second_image": "shopline://shop_images/3da32d42a4a049fb88505c3574066ef4_7017201865902279697.jpg",
+    "show_text_below_image": true,
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-inline-end": "20px",
+      "padding-inline-start": "20px"
+     },
+     "padding-inline-end": "30px",
+     "padding-inline-start": "30px"
+    }
+   },
+   "type": "image-banner"
+  },
+  "image-with-text": {
+   "block_order": [
+    "image-with-text__image",
+    "image-with-text__group"
+   ],
+   "blocks": {
+    "image-with-text__group": {
+     "block_order": [
+      "image-with-text__group__subheading",
+      "image-with-text__group__heading",
+      "image-with-text__group__rich-text",
+      "image-with-text__group__button"
+     ],
+     "blocks": {
+      "image-with-text__group__button": {
+       "blocks": {},
+       "settings": {
+        "link": "shopline://products/16070172017797848141734030",
+        "text": "Optional 图文模块"
+       },
+       "type": "$button"
+      },
+      "image-with-text__group__heading": {
+       "blocks": {},
+       "settings": {
+        "heading": "Image with text图文模块",
+        "text_align": "center",
+        "text_size": "title4"
+       },
+       "type": "$heading"
+      },
+      "image-with-text__group__rich-text": {
+       "blocks": {},
+       "settings": {
+        "content": "\u003cul style=\"list-style-type: square;\"\u003e\n\u003cli\u003ePair large text with a full-width image to draw attention to an important detail of your brand or product line.\u003c/li\u003e\n\u003cli\u003e图文模块\u003c/li\u003e\n\u003c/ul\u003e",
+        "text_align": "center"
+       },
+       "type": "$rich-text"
+      },
+      "image-with-text__group__subheading": {
+       "blocks": {},
+       "settings": {
+        "subtitle": "Subtitle图文模块",
+        "text_align": "center"
+       },
+       "type": "$subheading"
+      }
+     },
+     "settings": {},
+     "type": "$group"
+    },
+    "image-with-text__image": {
+     "blocks": {},
+     "settings": {
+      "image": "shopline://shop_images/fc08806b2dd34cce895679be6354ea7b_7017201816292040736.jpg"
+     },
+     "type": "$image"
+    }
+   },
+   "custom_css": [],
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-2",
+    "layout": {
+     "@media (--mobile)": {
+      "align-items": "flex-start",
+      "column-gap": "10px",
+      "flex-direction": "column",
+      "flex-wrap": "nowrap",
+      "justify-content": "center",
+      "row-gap": "10px"
+     },
+     "align-items": "center",
+     "column-gap": "80px",
+     "flex-direction": "row",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "80px"
+    },
+    "size": {
+     "height": "auto",
+     "width": "100%"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-block-end": "20px",
+      "padding-block-start": "30px",
+      "padding-inline-end": "20px",
+      "padding-inline-start": "20px"
+     },
+     "padding-block-end": "60px",
+     "padding-block-start": "60px",
+     "padding-inline-end": "30px",
+     "padding-inline-start": "30px"
+    }
+   },
+   "type": "image-with-text"
+  },
+  "rich-text": {
+   "block_order": [
+    "rich-text__heading",
+    "rich-text",
+    "rich-text__button-group"
+   ],
+   "blocks": {
+    "rich-text": {
+     "blocks": {},
+     "settings": {
+      "content": "富文本描述A sentence or two introducing your brand, \u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003ewhat you sell,\u003c/li\u003e\n\u003cli\u003eand what makes your brand compelling to customers.\u003c/li\u003e\n\u003c/ul\u003e"
+     },
+     "type": "rich-text"
+    },
+    "rich-text__button-group": {
+     "block_order": [
+      "rich-text__button-group__button1",
+      "rich-text__button-group__button2"
+     ],
+     "blocks": {
+      "rich-text__button-group__button1": {
+       "blocks": {},
+       "settings": {
+        "link": "shopline://products/16070172018665733528304030",
+        "text": "Shop 富文本1",
+        "use_secondary_style": false
+       },
+       "type": "button"
+      },
+      "rich-text__button-group__button2": {
+       "blocks": {},
+       "settings": {
+        "link": "shopline://blogs/68394dea0d95c6349539068a/68394dea9952443b77f4e8d7",
+        "text": "Shop all- ritex-b2",
+        "use_secondary_style": true
+       },
+       "type": "button"
+      }
+     },
+     "settings": {},
+     "type": "button-group"
+    },
+    "rich-text__heading": {
+     "blocks": {},
+     "settings": {
+      "text": "Rich text富文本标题",
+      "text_align": "right",
+      "text_size": "title2"
+     },
+     "type": "heading"
+    }
+   },
+   "custom_css": [
+    "h2 {color: red;}"
+   ],
+   "disabled": false,
+   "settings": {
+    "background_image": "shopline://shop_images/7c852fe9e5a04ea59dfea8e1a6576c92_7017201865902279693.jpg",
+    "color_scheme": "scheme-1",
+    "layout": {
+     "@media (--mobile)": {
+      "align-items": "center",
+      "column-gap": "14px",
+      "flex-direction": "column",
+      "flex-wrap": "nowrap",
+      "justify-content": "center",
+      "row-gap": "14px"
+     },
+     "align-items": "center",
+     "column-gap": "28px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "28px"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-bottom": "24px",
+      "padding-left": "20px",
+      "padding-right": "20px",
+      "padding-top": "24px"
+     },
+     "padding-bottom": "100px",
+     "padding-left": "30px",
+     "padding-right": "30px",
+     "padding-top": "100px"
+    }
+   },
+   "type": "rich-text"
+  },
+  "sign-up-and-save": {
+   "block_order": [
+    "block-1",
+    "block-2",
+    "block-3"
+   ],
+   "blocks": {
+    "block-1": {
+     "blocks": {},
+     "settings": {
+      "text": "Sign up and save邮件订阅\n",
+      "text_align": "right",
+      "text_size": "title1"
+     },
+     "type": "heading"
+    },
+    "block-2": {
+     "blocks": {},
+     "settings": {
+      "content": "Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.\n\u003cdiv class=\"BreadCrumbDarwerHeader_sectionName__7UZWl\"\u003e邮件订阅\u003c/div\u003e\n\u003cdiv class=\"BreadCrumbDarwerHeader_blockName__i68gY BreadCrumbDarwerHeader_active__jAPf7\"\u003e\u0026nbsp;\u003c/div\u003e",
+      "text_align": "right"
+     },
+     "type": "rich-text"
+    },
+    "block-3": {
+     "blocks": {},
+     "settings": {
+      "button_text": "Subscribe邮件订阅",
+      "placeholder": "Enter your email邮件订阅"
+     },
+     "type": "$subscription"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-1",
+    "full_screen_width": true,
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "4px",
+      "row-gap": "4px"
+     },
+     "align-items": "center",
+     "column-gap": "12px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "12px"
+    },
+    "size": {
+     "height": "auto",
+     "width": "100%"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-block-end": "30px",
+      "padding-block-start": "30px"
+     },
+     "padding-block-end": "60px",
+     "padding-block-start": "60px",
+     "padding-inline-end": "0",
+     "padding-inline-start": "0"
+    }
+   },
+   "type": "sign-up-and-save"
+  },
+  "slideshow": {
+   "block_order": [
+    "slideshow__image",
+    "17485890457901c4778a"
+   ],
+   "blocks": {
+    "17485890457901c4778a": {
+     "block_order": [
+      "1748589045790e875083"
+     ],
+     "blocks": {
+      "1748589045790e875083": {
+       "block_order": [
+        "17485890457901478e89",
+        "174858904579070b741a",
+        "174858904579015819e1",
+        "174858904579024a5f30"
+       ],
+       "blocks": {
+        "17485890457901478e89": {
+         "blocks": {},
+         "settings": {},
+         "type": "$subtitle"
+        },
+        "174858904579015819e1": {
+         "blocks": {},
+         "settings": {},
+         "type": "$description"
+        },
+        "174858904579024a5f30": {
+         "block_order": [
+          "17485890457902eb5db9",
+          "1748589045790cdbf031"
+         ],
+         "blocks": {
+          "17485890457902eb5db9": {
+           "blocks": {},
+           "settings": {
+            "text": "Shop this",
+            "use_secondary_style": true
+           },
+           "type": "button"
+          },
+          "1748589045790cdbf031": {
+           "blocks": {},
+           "settings": {
+            "text": "Shop all",
+            "use_secondary_style": false
+           },
+           "type": "button"
+          }
+         },
+         "settings": {},
+         "type": "button-group"
+        },
+        "174858904579070b741a": {
+         "blocks": {},
+         "settings": {},
+         "type": "$title"
+        }
+       },
+       "settings": {},
+       "type": "$group"
+      }
+     },
+     "settings": {
+      "color_scheme": "scheme-4",
+      "desktop_image": "shopline://shop_images/fc08806b2dd34cce895679be6354ea7b_7017201816292040736.jpg",
+      "image_mask_opacity": 30,
+      "layout": {
+       "align-items": "center",
+       "column-gap": "0px",
+       "flex-direction": "row",
+       "flex-wrap": "nowrap",
+       "justify-content": "center",
+       "row-gap": "0px"
+      },
+      "show_text_mask": false,
+      "size": {
+       "height": "100%",
+       "width": "100%"
+      },
+      "spacing": {
+       "@media (--mobile)": {
+        "padding-bottom": "40px",
+        "padding-left": "24px",
+        "padding-right": "24px",
+        "padding-top": "40px"
+       },
+       "padding-bottom": "40px",
+       "padding-left": "250px",
+       "padding-right": "250px",
+       "padding-top": "40px"
+      },
+      "text_mask_color": "deep"
+     },
+     "type": "$image"
+    },
+    "slideshow__image": {
+     "block_order": [
+      "slideshow__image__group"
+     ],
+     "blocks": {
+      "slideshow__image__group": {
+       "block_order": [
+        "slideshow__image__group__subtitle",
+        "slideshow__image__group__title",
+        "slideshow__image__group__description",
+        "slideshow__image__group__button-group"
+       ],
+       "blocks": {
+        "slideshow__image__group__button-group": {
+         "block_order": [
+          "slideshow__image__group__button-group__button1",
+          "slideshow__image__group__button-group__button2"
+         ],
+         "blocks": {
+          "slideshow__image__group__button-group__button1": {
+           "blocks": {},
+           "settings": {
+            "link": "shopline://collections-all",
+            "text": "Shopblock1-btn1",
+            "use_secondary_style": true
+           },
+           "type": "button"
+          },
+          "slideshow__image__group__button-group__button2": {
+           "blocks": {},
+           "settings": {
+            "link": "shopline://collections",
+            "text": "Shopblock1",
+            "use_secondary_style": false
+           },
+           "type": "button"
+          }
+         },
+         "settings": {},
+         "type": "button-group"
+        },
+        "slideshow__image__group__description": {
+         "blocks": {},
+         "settings": {
+          "text": "And optional subtext 轮播图block1-描述",
+          "text_align": "right"
+         },
+         "type": "$description"
+        },
+        "slideshow__image__group__subtitle": {
+         "blocks": {},
+         "settings": {
+          "subtitle": "Subtitle轮播图block1 副标题",
+          "text_align": "right"
+         },
+         "type": "$subtitle"
+        },
+        "slideshow__image__group__title": {
+         "blocks": {},
+         "settings": {
+          "text": "轮播图block1 标题- Two Line Title Slide",
+          "text_align": "right",
+          "text_size": "title1"
+         },
+         "type": "$title"
+        }
+       },
+       "settings": {},
+       "type": "$group"
+      }
+     },
+     "settings": {
+      "color_scheme": "scheme-5",
+      "desktop_image": "shopline://shop_images/3da32d42a4a049fb88505c3574066ef4_7017201865902279697.jpg",
+      "image_mask_opacity": 48,
+      "mobile_image": "shopline://shop_images/c2fab052d0cd47f6a0a5f2a63883eb7a_7017201865902279698.jpg"
+     },
+     "type": "$image"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "auto_switch": false,
+    "desktop_height": "550px",
+    "mobile_height": "400px",
+    "pagination_style": "arrow",
+    "switch_interval": 7
+   },
+   "type": "slideshow"
+  },
+  "text-columns-with-image": {
+   "block_order": [
+    "text-columns-with-image__heading",
+    "text-columns-with-image__card-group"
+   ],
+   "blocks": {
+    "text-columns-with-image__card-group": {
+     "block_order": [
+      "text-columns-with-image__card",
+      "text-columns-with-image__card2",
+      "text-columns-with-image__card3",
+      "1748592282419e43ee86"
+     ],
+     "blocks": {
+      "1748592282419e43ee86": {
+       "block_order": [
+        "1748592282419088a48c",
+        "1748592282419ad3f8fa",
+        "17485922824197123d87"
+       ],
+       "blocks": {
+        "1748592282419088a48c": {
+         "blocks": {},
+         "settings": {
+          "image": "shopline://shop_images/d78ec805ad1c4810beb2824b0eb5673a_7017201865902279694.jpg"
+         },
+         "type": "$image"
+        },
+        "17485922824197123d87": {
+         "blocks": {},
+         "settings": {},
+         "type": "$text"
+        },
+        "1748592282419ad3f8fa": {
+         "blocks": {},
+         "settings": {},
+         "type": "$title"
+        }
+       },
+       "settings": {
+        "button_text": "Optional button",
+        "layout": {
+         "@media (--mobile)": {
+          "column-gap": "8px",
+          "row-gap": "8px"
+         },
+         "align-items": "flex-start",
+         "column-gap": "16px",
+         "flex-direction": "column",
+         "flex-wrap": "nowrap",
+         "justify-content": "flex-start",
+         "row-gap": "16px"
+        }
+       },
+       "type": "$card"
+      },
+      "text-columns-with-image__card": {
+       "block_order": [
+        "text-columns-with-image__card1__image",
+        "text-columns-with-image__card1__title",
+        "text-columns-with-image__card1__text"
+       ],
+       "blocks": {
+        "text-columns-with-image__card1__image": {
+         "blocks": {},
+         "settings": {
+          "image": "shopline://shop_images/bef25d9aa8df4fb8aedc0e4359e403b2_7017201865902279696.jpg"
+         },
+         "type": "$image"
+        },
+        "text-columns-with-image__card1__text": {
+         "blocks": {},
+         "settings": {
+          "text": "\u003cul style=\"list-style-type: circle;\"\u003e\n\u003cli\u003eUse this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.\u003c/li\u003e\n\u003cli\u003e图文列表block1\u003c/li\u003e\n\u003c/ul\u003e"
+         },
+         "type": "$text"
+        },
+        "text-columns-with-image__card1__title": {
+         "blocks": {},
+         "settings": {
+          "title": "Example 图文列表block1"
+         },
+         "type": "$title"
+        }
+       },
+       "settings": {
+        "button_text": "Optional 图文列表block1",
+        "link": "shopline://collections-all"
+       },
+       "type": "$card"
+      },
+      "text-columns-with-image__card2": {
+       "block_order": [
+        "text-columns-with-image__card2__image",
+        "text-columns-with-image__card2__title",
+        "text-columns-with-image__card2__text"
+       ],
+       "blocks": {
+        "text-columns-with-image__card2__image": {
+         "blocks": {},
+         "settings": {
+          "image": "shopline://shop_images/eab09b3613d94bfba08f3a6f56f4a7e6_7017201865902279695.jpg"
+         },
+         "type": "$image"
+        },
+        "text-columns-with-image__card2__text": {
+         "blocks": {},
+         "settings": {},
+         "type": "$text"
+        },
+        "text-columns-with-image__card2__title": {
+         "blocks": {},
+         "settings": {},
+         "type": "$title"
+        }
+       },
+       "settings": {},
+       "type": "$card"
+      },
+      "text-columns-with-image__card3": {
+       "block_order": [
+        "text-columns-with-image__card3__image",
+        "text-columns-with-image__card3__title",
+        "text-columns-with-image__card3__text"
+       ],
+       "blocks": {
+        "text-columns-with-image__card3__image": {
+         "blocks": {},
+         "settings": {
+          "image": "shopline://shop_images/c18e60dfef454b68a9f9290fe248a7cb_7017201855533946887.png"
+         },
+         "type": "$image"
+        },
+        "text-columns-with-image__card3__text": {
+         "blocks": {},
+         "settings": {},
+         "type": "$text"
+        },
+        "text-columns-with-image__card3__title": {
+         "blocks": {},
+         "settings": {},
+         "type": "$title"
+        }
+       },
+       "settings": {},
+       "type": "$card"
+      }
+     },
+     "settings": {
+      "content_alignment": "right",
+      "image_aspect_ratio": "circle"
+     },
+     "type": "$card-group"
+    },
+    "text-columns-with-image__heading": {
+     "blocks": {},
+     "settings": {
+      "font_size": "title5",
+      "link": "shopline://cart",
+      "link_text": "View 图文列表",
+      "title": "Text columns with images图文列表"
+     },
+     "type": "$heading"
+    }
+   },
+   "custom_css": [],
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-5",
+    "layout": {
+     "@media (--mobile)": {
+      "column-gap": "20px",
+      "row-gap": "20px"
+     },
+     "align-items": "center",
+     "column-gap": "30px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "30px"
+    },
+    "size": {
+     "height": "auto",
+     "width": "100%"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-block-end": "24px",
+      "padding-block-start": "24px"
+     },
+     "padding-block-end": "80px",
+     "padding-block-start": "80px",
+     "padding-inline-end": "0",
+     "padding-inline-start": "0"
+    }
+   },
+   "type": "text-columns-with-image"
+  },
+  "video": {
+   "block_order": [
+    "video__heading",
+    "video__video",
+    "video__description"
+   ],
+   "blocks": {
+    "video__description": {
+     "blocks": {},
+     "settings": {
+      "content": "A short description of the video.视频",
+      "text_align": "right"
+     },
+     "type": "description"
+    },
+    "video__heading": {
+     "blocks": {},
+     "settings": {
+      "text": "Video-视频",
+      "text_align": "right",
+      "text_size": "title3"
+     },
+     "type": "heading"
+    },
+    "video__video": {
+     "blocks": {},
+     "settings": {
+      "poster_image": "shopline://shop_images/d78ec805ad1c4810beb2824b0eb5673a_7017201865902279694.jpg",
+      "video_external_media": "https://www.youtube.com/watch?v=YJSpGXxkCqE"
+     },
+     "type": "$video"
+    }
+   },
+   "disabled": false,
+   "settings": {
+    "color_scheme": "scheme-1",
+    "layout": {
+     "@media (--mobile)": {
+      "align-items": "center",
+      "column-gap": "14px",
+      "flex-direction": "column",
+      "flex-wrap": "nowrap",
+      "justify-content": "center",
+      "row-gap": "14px"
+     },
+     "align-items": "center",
+     "column-gap": "28px",
+     "flex-direction": "column",
+     "flex-wrap": "nowrap",
+     "justify-content": "center",
+     "row-gap": "28px"
+    },
+    "size": {
+     "@media (--mobile)": {
+      "height": "auto",
+      "width": "100%"
+     },
+     "height": "auto",
+     "width": "100%"
+    },
+    "spacing": {
+     "@media (--mobile)": {
+      "padding-bottom": "30px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "30px"
+     },
+     "padding-bottom": "60px",
+     "padding-left": "0px",
+     "padding-right": "0px",
+     "padding-top": "60px"
+    }
+   },
+   "type": "video"
+  }
+ }
+}

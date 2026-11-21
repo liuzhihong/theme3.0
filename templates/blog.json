@@ -1,0 +1,81 @@
+{
+  "sections": {
+    "main-blog": {
+      "type": "main-blog",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "desktop_columns": "2",
+        "page_size": 4,
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "30px",
+            "padding-block-start": "30px",
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-block-end": "60px",
+          "padding-block-start": "60px",
+          "padding-inline-end": "60px",
+          "padding-inline-start": "60px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "main-blog__card": {
+          "type": "article/card",
+          "settings": {},
+          "blocks": {
+            "main-blog__card__cover": {
+              "type": "article/cover",
+              "settings": {},
+              "blocks": {}
+            },
+            "main-blog__card__info": {
+              "type": "article/info",
+              "settings": {},
+              "blocks": {
+                "main-blog__card__date_author": {
+                  "type": "article/date_author",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "main-blog__card__excerpt": {
+                  "type": "article/excerpt",
+                  "settings": {},
+                  "blocks": {}
+                },
+                "main-blog__card__title": {
+                  "type": "article/title",
+                  "settings": {},
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "main-blog__card__title",
+                "main-blog__card__date_author",
+                "main-blog__card__excerpt"
+              ]
+            }
+          },
+          "block_order": [
+            "main-blog__card__cover",
+            "main-blog__card__info"
+          ]
+        },
+        "main-blog__title": {
+          "type": "$title",
+          "settings": {},
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "main-blog__title",
+        "main-blog__card"
+      ],
+      "custom_css": []
+    }
+  },
+  "order": [
+    "main-blog"
+  ]
+}
